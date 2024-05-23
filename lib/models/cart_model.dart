@@ -23,6 +23,7 @@ class CartModel {
     price = json['price'];
     img = json['img'];
     quantity = json['quantity'];
+    //altynai
     isExist = json['is_exist'];
     time = json['time'];
   }
